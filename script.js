@@ -38,7 +38,7 @@ window.addEventListener("scroll", () => {
   
   mainFn();
   
- // window.addEventListener("resize", () => {
-   // window.location.reload();
- // });
+  window.addEventListener("resize", () => {
+    window.location.reload();
+  });
   
